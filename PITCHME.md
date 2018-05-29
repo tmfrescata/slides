@@ -2,7 +2,7 @@
 
 ---
 
-# Mística en general
+### Mística en general
 
 - "Un Mundo perfecto donde el bien triunfa (y el mal es castigado)"
 - "Un juego en serio"
@@ -11,9 +11,9 @@
 
 ---
 
-# Catequesis "aplicada"
+### Catequesis "aplicada"
 
-## I – Fe católica
+#### I – Fe católica
 
 - Jesús y el Reino de Dios
 - Maria, la estrela que nos guía a Jesús
@@ -21,18 +21,18 @@
 
 ---
 
-## II – Movimiento de Schoenstatt
+#### II – Movimiento de Schoenstatt
 
 - Tres puntos de contacto
 - Historia del Padre Fundador y del Movimiento
 
-##  III – Héroes
+####  III – Héroes
 
 - Jesús, Maria, Héroes del Antiguo Testamento y del Nuevo Testamento, Santos y Héroes de Schoenstatt
 
 ---
 
-# Mística en particular
+### Mística en particular
 
 - Bandera (Manto de María, Carpa-Santuario, Estrella de María, Cruz Negra)
 - Etapas (Manto de María, Blasón, Estrella, Cruz Negra)
@@ -41,13 +41,13 @@
 
 ---
 
-# Cenáculo / Legión
+### Cenáculo / Legión
 
 ![inline](esquema.png)
 
 ---
 
-# Comando
+### Comando
 
 Conformado por todas las edades:
 
@@ -58,41 +58,31 @@ Conformado por todas las edades:
 
 ---
 
-# Alto-Comando
+### Alto-Comando
 
 - Todos los Jefes y Sub-jefes
 - Conducir a través de Jefes
 
-# Jefe de Cenáculo (y encargados)
+---
+
+### Jefe de Cenáculo (y encargados)
 
 - Subsidiariedad — "Hacer hacer"
 - Servicio desinteresado
 
 ---
 
-# Reunión básica
+### Reunión básica
 
-1\. Formación (5 / 10 min)
-
-- Oración inicial
-- Bienvenida
-- Presentación del Tema
-
-2\. Tema por Comando (15 / 20 min)
-
-- Pasar lista
-
----
-
-### Reunión básica (2)
-
-
-3\. Juego (20 /30 min)
-
-- Relacionado con el Tema / Actividad física
-- Por Comando / Espírito de grupo
-- Premio (entregar al final)
-	
-4\. Oración final en el Santuario (5 / 10 min)
-
-- Himno de Franz Reinisch
+- Formación (5 / 10 min)
+  - Oración inicial
+  - Bienvenida
+  - Presentación del Tema
+- Tema por Comando (15 / 20 min)
+  - Pasar lista
+- Juego (20 /30 min)
+  - Relacionado con el Tema / Actividad física
+  - Por Comando / Espírito de grupo
+  - Premio (entregar al final)
+-  Oración final en el Santuario (5 / 10 min)
+  - Himno de Franz Reinisch
