@@ -26,6 +26,8 @@
 - Tres puntos de contacto
 - Historia del Padre Fundador y del Movimiento
 
+---
+
 ####  III – Héroes
 
 - Jesús, Maria, Héroes del Antiguo Testamento y del Nuevo Testamento, Santos y Héroes de Schoenstatt
@@ -86,3 +88,9 @@ Conformado por todas las edades:
   - Premio (entregar al final)
 -  Oración final en el Santuario (5 / 10 min)
   - Himno de Franz Reinisch
+  
+---
+
+| A | B |
+| - | - |
+| Olá | Hola |
